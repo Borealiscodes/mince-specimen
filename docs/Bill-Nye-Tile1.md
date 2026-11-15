@@ -26,11 +26,14 @@ That is where engineering hardening and the "Annie Oakley" Concurrent Peer-Node 
 In Annie Get Your Gun, Annie Oakley sings "Anything you can do, I can do better"—not by taking over the other person's stage, but by stepping up to the target range and hitting the bullseye cleanly!
 In open-source engineering, Concurrent Peer-Node Sharpshooting works the exact same way:
 
+<pre> 
+  
 Traditional PR Workflow	"Annie Oakley" Peer-Node Workflow
 Ask Permission: Open a PR, debate maintainers, wait in review queues, and navigate community politics.	Fork & Refactor Concurrently: Clone the baseline, build the hardened invariants in parallel (refactor/internal/), and ship proof in code.
 Pro-Social via Persuasion: Try to convince upstream to adopt your guardrails through issue threads.	Pro-Social via Open Blueprints: Publish signed, reproducible specimens and architectural debriefs so anyone can verify and learn from the math.
 Single Point of Gatekeeping: Progress stops if upstream disagrees or stalls.	Decentralized Rigor: Every node tests its own invariants independently—letting the best engineering speak for itself!
-
+  
+</pre>
 
 🌍 THE BIG PICTURE! 🏆
 
